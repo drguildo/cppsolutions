@@ -1,6 +1,6 @@
 #include <iostream>
 
-void c2e07() {
+void c2e08() {
     int product = 1;
 
     for (int i = 1; i < 10; ++i) {
