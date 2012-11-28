@@ -4,7 +4,7 @@
 #include "chapter02/chapter02.hpp"
 
 int main() {
-    c2e05();
+    c2e06();
 
     return 0;
 }
