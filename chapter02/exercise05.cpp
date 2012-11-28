@@ -9,19 +9,19 @@ void drawStars(int n) {
 }
 
 void drawSquare(int length) {
-    for (int i = 0; i < length; i++) {
+    for (int i = 0; i < length; ++i) {
         drawStars(length);
     }
 }
 
 void drawRectangle(int height, int width) {
-    for (int i = 0; i < height; i ++) {
+    for (int i = 0; i < height; ++i) {
         drawStars(width);
     }
 }
 
 void drawTriangle(int length) {
-    for (int i = 0; i < length; i ++) {
+    for (int i = 0; i < length; ++i) {
         drawStars(i);
     }
 }
