@@ -8,5 +8,6 @@ void c2e04();
 void c2e05();
 void c2e07();
 void c2e08();
+void c2e09();
 
 #endif // CHAPTER02_HPP_INCLUDED
