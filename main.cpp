@@ -3,7 +3,7 @@
 #include "chapter03/chapter03.hpp"
 
 int main() {
-    c3e02();
+    c3e03();
 
     return 0;
 }

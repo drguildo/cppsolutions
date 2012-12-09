@@ -5,5 +5,6 @@ int avg();
 int med();
 
 void c3e02();
+void c3e03();
 
 #endif // CHAPTER03_HPP_INCLUDED
